@@ -1,0 +1,5 @@
+#include <iostream>
+int main() 
+{
+std::cout << "Hello my dear reader I am here to tell you don\'t wast your time do something for your life" << std::endl; 
+}
